@@ -169,7 +169,7 @@ body {
 }
 
 
-@media (min-width:570px) and (max-width: 1500px) {
+@media (min-width:850px) and (max-width: 1500px) {
 
     body>div.header {
         height: 70px;
